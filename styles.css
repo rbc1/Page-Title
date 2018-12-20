@@ -1,0 +1,42 @@
+body{
+     background:url(https://refnewmedia180.files.wordpress.com/2014/03/test8.gif);
+     background-size: cover;
+     text-align: center;
+}
+
+p {
+    background:url(https://thisisyork.org/wp-content/uploads/2016/05/Vote.jpg);
+    background-size: 72px;
+}
+
+img {
+      width:250px;
+      
+      border:solid 5px gold  ;
+}
+
+.flexed{
+          display:flex;
+        justify-content:center;
+          justify-content: space-between;
+}
+
+ p {
+      font-size: 50px;
+      color: black;
+     font-family: "comic sans";
+ }
+ 
+ .test {
+     padding: 40px;
+     border:solid red 20px;
+     background-color:white;
+ }
+
+.tim {
+    padding:100px;
+    border:solid blue 20px;
+    background-color:white;
+    font-size:40px;
+    background:url("https://newevolutiondesigns.com/images/freebies/christmas-wallpaper-7.jpg");
+}
